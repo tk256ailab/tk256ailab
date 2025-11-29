@@ -16,6 +16,12 @@ I'm TK256, a CS student interested in AI and Machine Learning.
 
 ---
 
+### 📂 Portfolio
+Check out my projects and articles on my portfolio site:  
+[https://tk256ailab.github.io/portfolio/index.html](https://tk256ailab.github.io/portfolio/index.html)
+
+---
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tk256ailab&color=blue&style=flat" alt="Profile views" />
 </p>
