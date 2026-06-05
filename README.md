@@ -6,19 +6,16 @@ I'm TK256, a CS student interested in AI and Machine Learning.
 
 ### GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tk256ailab&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
-</p>
+[![TK256's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=tk256ailab&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/Pranesh-2005/github-readme-stats-fast)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tk256ailab&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
-</p>
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=tk256ailab&hide=html,css,php,ruby,hcl&layout=compact&theme=gruvbox)](https://github.com/Pranesh-2005/github-readme-stats-fast)
+
 
 ---
 
 ### 📂 Portfolio
 Check out my projects and articles on my portfolio site:  
-[https://tk256ailab.github.io/portfolio/index.html](https://tk256ailab.github.io/portfolio/index.html)
+[https://tk256ailab.com](https://tk256ailab.com)
 
 ---
 
