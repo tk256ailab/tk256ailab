@@ -6,10 +6,9 @@ I'm TK256, a CS student interested in AI and Machine Learning.
 
 ### GitHub Stats
 
-[![TK256's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=tk256ailab&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/Pranesh-2005/github-readme-stats-fast)
+[![TK256's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=tk256ailab&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/Pranesh-2005/github-readme-stats-fast)
 
-[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=tk256ailab&hide=html,css,php,ruby,hcl&layout=compact&theme=gruvbox)](https://github.com/Pranesh-2005/github-readme-stats-fast)
-
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=tk256ailab&hide=html,css,php,ruby,hcl&layout=compact&theme=tokyonight)](https://github.com/Pranesh-2005/github-readme-stats-fast)
 
 ---
 
